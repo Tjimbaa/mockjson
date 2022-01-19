@@ -44,6 +44,8 @@ export interface EditorCommand {
 }
 ``` 
 
+### seachCommands
+
 ## Why Use This RTE?
 This RTE is easy to implement, and easy to install
 * Takes a few seconds to setup
