@@ -1,5 +1,8 @@
 # WebDev-RTE
 
+Reference-style: 
+![alt text][logo]
+
 [logo]: (https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80 "Logo Title Text 1")
 
 ## Table of Contents
