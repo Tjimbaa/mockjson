@@ -32,6 +32,7 @@ We ask you to respect two things:
 ## Components 
 
 ### getCommands
+```
 export interface EditorCommand {
   name: string;
   description: string;
@@ -41,9 +42,6 @@ export interface EditorCommand {
   icon: string;
   tags: string[];
 }
-
- 
-
 ``` 
 
 ## Why Use This RTE?
