@@ -3,6 +3,7 @@
 ![alt text][logo]
 
 [logo]: https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80 "Logo Title Text 2"
+ Simple, flexible, fun JavaScript test framework for Node.js & The Browser 
 
 ## Table of Contents
 * 123
