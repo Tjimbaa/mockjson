@@ -31,17 +31,20 @@ We ask you to respect two things:
 
 ## Components 
 
-### editorHelper.ts
-```let editor: Editor;
-let rte: RichTextEditorElement;
+### getCommands
+export interface EditorCommand {
+  name: string;
+  description: string;
+  aliases: string[];
+  keyboardShortcut: string[]
+  command(): void
+  icon: string;
+  tags: string[];
+}
 
-export const initEditor = (
-  rteElement: richTextEditorElement,
-  mountElement: Element,
-  hoverMenu: HTMLElement
- ): Editor => {
  
- };
+
+``` 
 
 ## Why Use This RTE?
 This RTE is easy to implement, and easy to install
