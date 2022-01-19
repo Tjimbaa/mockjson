@@ -8,14 +8,14 @@
 * 1234567
 
 ## Installation
-You don't need any frameworks to work with the prototype. It can be installed by running the following commands
+To start working with the prototype you only need to run the following command:
 
 ```
 npm install
 ```
 
 ## Development
-To run the program you need to run the follow command, which can be found under package.json file in the script tag.
+To run the program you need to run the following command, which can be found under package.json file in the script tag.
 
 ```
 npm run dev
