@@ -1,10 +1,5 @@
 # WebDev-RTE
 
-![alt text][logo]
-
-[logo]: https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80 "Logo Title Text 2"
- Simple, flexible, fun JavaScript test framework for Node.js & The Browser 
-
 ## Table of Contents
 * 123
 * 1234
@@ -34,6 +29,19 @@ We want to fix it ASAP! But before fixing a bug we need to reproduce and confirm
 We ask you to respect two things:
 * fill the GitHub issue template by providing the bug description and appropriate versions
 
+## Components 
+
+### editorHelper.ts
+```let editor: Editor;
+let rte: RichTextEditorElement;
+
+export const initEditor = (
+  rteElement: richTextEditorElement,
+  mountElement: Element,
+  hoverMenu: HTMLElement
+ ): Editor => {
+ 
+ };
 
 ## Why Use This RTE?
 This RTE is easy to implement, and easy to install
