@@ -50,6 +50,12 @@ export interface EditorCommand {
 
 **aliases** is a list of alternative names to commands, which makes the searching better. For example can bold have the alias heavy, when doing a search for heavy bold will appear.
 
+**KeyboardShortcut** is an array of buttons that form a shortcut
+
+**Command()** is a function which calls a specific editor command
+
+**tags** is used to filter a list of **commands** based on which menu should display them.
+
 ### seachCommands
 ```
 export const searchCommands = (
