@@ -48,6 +48,8 @@ export interface EditorCommand {
 }
 ``` 
 
+**aliases** is a list of alternative names to commands, which makes the searching better. For example can bold have the alias heavy, when doing a search for heavy bold will appear.
+
 ### seachCommands
 ```
 export const searchCommands = (
