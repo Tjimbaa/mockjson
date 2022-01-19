@@ -49,6 +49,21 @@ export interface EditorCommand {
 ``` 
 
 ### seachCommands
+```
+export const searchCommands = (
+  search: string,
+  tag?: string
+): EditorCommand[] => {
+  const filtered = getCommands().filter(
+    x =>
+      (x.name.toLocaleLowerCase().includes(search) ||
+        x.aliases.some(y => y.includes(search))) &&
+      (tag ? x.tags.some(z => z.includes(tag)) : true)
+  );
+
+  return filtered;
+};
+```
 
 ## Why Use This RTE?
 This RTE is easy to implement, and easy to install
