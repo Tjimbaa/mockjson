@@ -8,13 +8,19 @@
 * 1234567
 
 ## Installation
-You don't need any frameworks to work with this RTE. It can be installed by running the following commands
+You don't need any frameworks to work with the prototype. It can be installed by running the following commands
 
 ```
 npm install
 ```
 
-#### H4
-##### H5
-###### H6
+## Development
+To run the program you need to run the follow command, which can be found under package.json file in the script tag.
+
+```
+npm run dev
+```
+
+## Introduction
+The prototype consist of a main component Rich Text Editor
 
