@@ -19,14 +19,14 @@
 ## How to run the app
 1. Either a git client or downlaod the app and open the folder in the cli
 2. Install all dependencies using the `npm install` command
-3. Start the webs server using the `npm run dev` command. The app will be served at http://localhost:3000/
+3. Start the web server using the `npm run dev` command. The app will be served at http://localhost:3000/
 4. Go to http://localhost:3000/ and get started
 
 ## How to use the RTE
 There are three main UI components consisting of shortcutPanel, blockMenu, hoverMenu and input searching.
 1. The shortcutPanel is placed on right side and gives an overview of all the shortcuts included in the RTE, and can be applied to text
-2. The blockMenu is accessed by using the comamnd ctrl + k, and the purpose of this is to build building blocks.
-3. The hoverMenu is accessed when selecting some text for styling, and includes the typical features on a RTE.
+2. The blockMenu is accessed by using the command ctrl + k, and the purpose of this is to build building blocks.
+3. The hoverMenu is accessed when selecting / highlighting some text for styling, and includes the typical features on a RTE.
 
 ## User Stories
 * A user can create content using different menus
