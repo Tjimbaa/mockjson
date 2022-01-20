@@ -3,9 +3,9 @@
 
 <p align="center">
   <img width="200" src="https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80" alt="Umbraco logo">
-  <p align="center">
+</p>
+<p align="center">
   <p>This is a WYSIWYG rich text editor </p>
-  </p>
 </p>
 
 ## Table of Contents
