@@ -1,10 +1,8 @@
 # WebDev-RTE
 
 
-<p align="center">
-  asdasd<img width="200" src="https://github.com/Tjimbaa/mockjson/blob/main/umbraco_logo_white_1.png" alt="Umbraco logo">
-  
-</p>
+<h2 align="center">asdsadasd<img width="200" src="https://github.com/Tjimbaa/mockjson/blob/main/umbraco_logo_white_1.png" alt="Umbraco logo">
+</h2>
 
 
 ## Table of Contents
