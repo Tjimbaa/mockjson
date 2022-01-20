@@ -2,10 +2,7 @@
 RTE is a blabla 
 
 <p align="center">
-    ![alt text][logo]
-
-[logo]: https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80 "Logo Title Text 1"
-
+  <img width="200" src="http://material-bread.org/logo-shadow.svg" alt="Material Bread logo">
 </p>
 
 ## Table of Contents
