@@ -86,3 +86,4 @@ export const searchCommands = (
 This RTE is easy to implement, and easy to install
 * Takes a few seconds to setup
 * Can be implemented with and without a framework
+* Intuitive to work with. 
