@@ -28,9 +28,6 @@ There are three main UI components consisting of shortcutPanel, blockMenu, hover
 2. The blockMenu is accessed by using the command ctrl + k, and the purpose of this is to build building blocks.
 3. The hoverMenu is accessed when selecting / highlighting some text for styling, and includes the typical features on a RTE.
 
-## User Stories
-* A user can create content using different menus
-
 ## Features
 
 ### getCommands
