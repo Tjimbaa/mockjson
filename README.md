@@ -1,8 +1,12 @@
 # WebDev-RTE
 RTE is a blabla 
-![alt text][logo]
+
+<p align="center">
+    ![alt text][logo]
 
 [logo]: https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80 "Logo Title Text 1"
+
+</p>
 
 ## Table of Contents
 * 123
@@ -29,7 +33,11 @@ There are three main UI components consisting of shortcutPanel, blockMenu, hover
 ## Features
 
 ## Future Features
-Collab
+1. Documentation
+2. Test
+3. Customization
+4. Table of Contents
+5. Collaborative editing
 
 ## Dependencies
 sad
@@ -37,27 +45,11 @@ sad
 ## What the prototype looks like
 ![alt text]https://github.com/Tjimbaa/mockjson/blob/main/rte.png
 
-## Installation
-You don't need any frameworks to work with the prototype. It can be installed by running the following commands
+How to Contribute
+1. Clone repo and create a new branch $ git checkout http:com/Tjimbaa/RTE -b name for new branch
+2. Make changes and test
+3. Sumbit Pull Request with comprehensive description of changes
 
-```
-npm install
-```
-
-## Development
-To run the program you need to run the follow command, which can be found under package.json file in the script tag.
-
-```
-npm run dev
-```
-
-## Introduction
-Looking at the UI component it consist of three main components - which is the hoverMenu, shortcutPanel, and blockMenu
-
-## You think you've found a bug?
-We want to fix it ASAP! But before fixing a bug we need to reproduce and confirm it.
-We ask you to respect two things:
-* fill the GitHub issue template by providing the bug description and appropriate versions
 
 ## Components 
 
