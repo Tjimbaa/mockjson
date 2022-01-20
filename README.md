@@ -17,7 +17,7 @@
 * What the prototype looks like
 
 ## How to run the app
-1. Either fork or downlaod the app and open the folder in the cli
+1. Either a git client or downlaod the app and open the folder in the cli
 2. Install all dependencies using the `npm install` command
 3. Start the webs server using the `npm run dev` command. The app will be served at http://localhost:3000/
 4. Go to http://localhost:3000/ and get started
