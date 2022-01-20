@@ -10,7 +10,6 @@
 ## Table of Contents
 * How to run the app
 * How to use the RTE
-* 123
 * Features
 * Future Features
 * How to contribute
