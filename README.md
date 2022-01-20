@@ -16,7 +16,7 @@
 
 ## How to run the app
 1. Either fork or downlaod the app and open the folder in the cli
-2. Install all dependencies using the `npm i` command
+2. Install all dependencies using the `npm install` command
 3. Start the webs server using the `npm run dev` command. The app will be served at http://localhost:3000/
 4. Go to http://localhost:3000/ and get started
 
@@ -30,27 +30,6 @@ There are three main UI components consisting of shortcutPanel, blockMenu, hover
 * A user can create content using different menus
 
 ## Features
-
-## Future Features
-1. Documentation
-2. Test
-3. Customization
-4. Table of Contents
-5. Collaborative editing
-
-## Dependencies
-sad
-
-## What the prototype looks like
-![alt text]https://github.com/Tjimbaa/mockjson/blob/main/rte.png
-
-How to Contribute
-1. Clone repo and create a new branch $ git checkout http:com/Tjimbaa/RTE -b name for new branch
-2. Make changes and test
-3. Sumbit Pull Request with comprehensive description of changes
-
-
-## Components 
 
 ### getCommands
 ```
@@ -89,6 +68,21 @@ export const searchCommands = (
   return filtered;
 };
 ```
+
+## Future Features
+1. Documentation
+2. Test
+3. Customization
+4. Table of Contents
+5. Collaborative editing
+
+## How to Contribute
+1. Clone repo and create a new branch $ git checkout http:com/Tjimbaa/RTE -b name for new branch
+2. Make changes and test
+3. Sumbit Pull Request with comprehensive description of changes
+
+## What the prototype looks like
+![alt text]https://github.com/Tjimbaa/mockjson/blob/main/rte.png
 
 ## Why Use This RTE?
 This RTE is easy to implement, and easy to install
