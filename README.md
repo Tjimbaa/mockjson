@@ -79,7 +79,7 @@ export const searchCommands = (
 5. Collaborative editing
 
 ## How to Contribute
-1. Clone repo and create a new branch $ git checkout http:com/Tjimbaa/RTE -b name for new branch
+1. Clone repo and create a new branch $ git checkout http:com/Tjimbaa/WebDev-RTE -b name for new branch
 2. Make changes and test
 3. Sumbit Pull Request with comprehensive description of changes
 
