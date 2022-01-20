@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img width="200" src="https://umbraco.com/media/kloklj32/umbraco_logo_white_05_preview.png?quality=80" alt="Umbraco logo">
+  <img width="200" src="https://github.com/Tjimbaa/mockjson/blob/main/umbraco_logo_white_1.png" alt="Umbraco logo">
   asdsadasd
 </p>
 
