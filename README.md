@@ -1,5 +1,5 @@
 # WebDev-RTE
-
+RTE is a blabla 
 ![alt text][logo]
 
 [logo]: https://umbraco.com/media/4mzda5do/umbraco_logo_blue05.png?quality=80 "Logo Title Text 1"
@@ -10,6 +10,23 @@
 * 12345
 * 123456
 * 1234567
+
+## How to run the app
+1. Either fork or downlaod the app and open the folder in the cli
+2. Install all dependencies using the `npm i` command
+3. Start the webs server using the `npm run dev` command. The app will be served at http://localhost:3000/
+4. Go to http://localhost:3000/ and get started
+
+## How to use the RTE
+There are three main UI components consisting of shortcutPanel, blockMenu, hoverMenu and input searching.
+1. The shortcutPanel is placed on right side and gives an overview of all the shortcuts included in the RTE, and can be applied to text
+2. The blockMenu is accessed by using the comamnd ctrl + k, and the purpose of this is to build building blocks.
+3. The hoverMenu is accessed when selecting some text for styling, and includes the typical features on a RTE.
+
+## User Stories
+* A user can create content using different menus
+
+## Features
 
 ## Installation
 You don't need any frameworks to work with the prototype. It can be installed by running the following commands
