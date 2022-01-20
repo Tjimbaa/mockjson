@@ -1,8 +1,9 @@
 # WebDev-RTE
 
 
-<h2 align="center"><img width="300" src="https://github.com/Tjimbaa/mockjson/blob/main/umbraco_logo_white_1.png" alt="Umbraco logo">This is WYSIGYG Rich Text Editor built for Umbraco
+<h2 align="center"><img width="300" src="https://github.com/Tjimbaa/mockjson/blob/main/umbraco_logo_white_1.png" alt="Umbraco logo">
 </h2>
+<h2 align="center">This is WYSIGYG Rich Text Editor built for Umbraco </h2>
 
 
 ## Table of Contents
