@@ -28,6 +28,15 @@ There are three main UI components consisting of shortcutPanel, blockMenu, hover
 
 ## Features
 
+## Future Features
+Collab
+
+## Dependencies
+sad
+
+## What the prototype looks like
+
+
 ## Installation
 You don't need any frameworks to work with the prototype. It can be installed by running the following commands
 
