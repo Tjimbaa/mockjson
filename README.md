@@ -8,11 +8,13 @@
 
 
 ## Table of Contents
+* How to run the app
+* How to use the RTE
 * 123
-* 1234
-* 12345
-* 123456
-* 1234567
+* Features
+* Future Features
+* How to contribute
+* What the prototype looks like
 
 ## How to run the app
 1. Either fork or downlaod the app and open the folder in the cli
