@@ -79,11 +79,13 @@ export const searchCommands = (
 2. Make changes and test
 3. Sumbit Pull Request with comprehensive description of changes
 
-## What the prototype looks like
-![Prototype image](https://github.com/Tjimbaa/mockjson/blob/main/rte.png)
-
 ## Why Use This RTE?
 This RTE is easy to implement, and easy to install
 * Takes a few seconds to setup
 * Can be implemented with and without a framework
 * Intuitive to work with. 
+
+## What the prototype looks like
+![Prototype image](https://github.com/Tjimbaa/mockjson/blob/main/rte.png)
+
+
