@@ -54,7 +54,7 @@ export interface EditorCommand {
 
 **tags** is used to filter a list of **commands** based on which menu should display them.
 
-### seachCommands
+### searchCommands
 ```
 export const searchCommands = (
   search: string,
