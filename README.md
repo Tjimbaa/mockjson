@@ -35,7 +35,7 @@ Collab
 sad
 
 ## What the prototype looks like
-
+![alt text]https://github.com/Tjimbaa/mockjson/blob/main/rte.png
 
 ## Installation
 You don't need any frameworks to work with the prototype. It can be installed by running the following commands
